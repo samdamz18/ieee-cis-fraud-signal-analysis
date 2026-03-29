@@ -148,7 +148,7 @@ This is Part 3 of a series on imbalanced financial data:
 
 ## Article
 
-Read the full write-up: [**Medium**](#) 
+Read the full write-up: [**Medium**](https://medium.com/@sammzy/the-fraud-signal-was-never-where-i-thought-it-would-be-8b128f057b95) 
 
 ---
 
